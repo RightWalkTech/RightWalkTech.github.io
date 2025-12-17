@@ -1,4 +1,8 @@
-# WhatsApp Conversational Access Layer for NAPS
+# Chatur AI - System Architecture
+
+**System Architecture** for the WhatsApp Conversational Access Layer for NAPS (National Apprenticeship Promotion Scheme)
+
+> This document describes the **NAPS-specific implementation of Citizen AI**, currently referred to as **Chatur AI** (working name), and should not be read as the full Citizen AI vision.
 
 **Status:** Live technical architecture (near-term, reality-first)  
 **Shelf life:** Evolving document – updated as system changes  
@@ -9,11 +13,11 @@
 This document intentionally differs in tone and scope from *Citizen AI*:
 
 - **Citizen AI** is a *vision-first*, long-shelf-life narrative covering past, present, and long-term futures.
-- **This architecture document** is a *reality-first*, operational snapshot of what is deployed today and what is planned in the near term.
+- **Chatur AI** is a *reality-first*, operational snapshot of what is deployed today and what is planned in the near term.
 
 Both documents are correct for their own domain, and are complementary:
 - Citizen AI explains *why* and *where* the system is going.
-- This document explains *what is running* and *how it is engineered* right now or for near-term
+- Chatur AI (this docuemnt) explains *what is running* and *how it is engineered* right now or for near-term
 
 ---
 

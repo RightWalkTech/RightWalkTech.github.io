@@ -6,6 +6,8 @@ Citizen AI is RightWalk’s long-term vision for building **equitable, conversat
 This document is not an architecture specification.  
 It is a **product, policy, and philosophy narrative** that explains *why* the system exists, *what we learned from the field*, and *how we think about AI in public service delivery*.
 
+> In current deployments, this vision is instantiated in specific domains (e.g., NAPS). Those implementations may carry **working product names**, while *Citizen AI* remains the stable, long-term public framing.
+
 ---
 
 ## 1. The Problem We Started With

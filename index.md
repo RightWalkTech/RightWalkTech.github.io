@@ -20,9 +20,12 @@ A **vision-first, long-horizon document** that captures:
 
 Citizen AI answers **why** the system exists and **where** it is headed.
 
+> **Naming note:** *Citizen AI* refers to RightWalk’s **umbrella vision and public architecture**.
+> The **current NAPS-specific implementation** of Citizen AI is internally referred to as **Chatur AI** (working name).
+
 ---
 
-### 2. [System Architecture](architecture.md)
+### 2. [Chatur AI - System Architecture](architecture.md)
 
 A **reality-first, technical document** that describes:
 - the system as it is deployed today,
@@ -38,6 +41,6 @@ The architecture document answers **what is running now** and **how it is built*
 
 - **Start with this file** for context.
 - Read **Citizen AI** to understand intent, philosophy, and long-term direction.
-- Read **System Architecture** to understand implementation, control boundaries, and operational design.
+- Read **Chatur AI - System Architecture** to understand implementation, control boundaries, and operational design.
 
 Together, these documents describe not just a system, but an approach to building **responsible, auditable, and scalable AI for public service delivery**.
